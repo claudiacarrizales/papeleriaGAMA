@@ -1,0 +1,16 @@
+2020-04-02T17:48:37+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 20480 bytes) en /var/www/html/wp-includes/pomo/translations.php en la línea 100
+
+2020-04-02T18:00:33+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 20480 bytes) en /var/www/html/wp-includes/pomo/translations.php en la línea 100
+
+2020-04-02T18:00:33+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) en /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/Controllers/Version2/class-wc-rest-shipping-zone-methods-v2-controller.php en la línea 39
+
+2020-04-02T18:00:33+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 20480 bytes) en /var/www/html/wp-includes/pomo/translations.php en la línea 100
+
+2020-04-02T18:00:36+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 20480 bytes) en /var/www/html/wp-includes/functions.php en la línea 4306
+
+2020-04-02T18:00:54+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 20480 bytes) en /var/www/html/wp-includes/rest-api/class-wp-rest-server.php en la línea 743
+
+2020-04-02T18:00:54+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 20480 bytes) en /var/www/html/wp-includes/rest-api/class-wp-rest-server.php en la línea 746
+
+2020-04-02T20:56:26+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 16384 bytes) en /var/www/html/wp-includes/functions.php en la línea 578
+
